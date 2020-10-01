@@ -1,4 +1,4 @@
-##
+## the best project in the world
 #    Copyright (C) 2014 Jessica Tallon & Matt Molyneaux
 #
 #    This file is part of Inboxen.
